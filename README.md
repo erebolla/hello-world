@@ -1,2 +1,4 @@
 # hello-world
-First repository attempt
+
+I am new to programming and looking forward to learning more.
+This is a test. 
